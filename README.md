@@ -6,6 +6,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system using the 
 
 
 ## Folder Structure
+
 RAG-BACKEND/
 ├── agent.py # Main agent implementation
 ├── action.py # Tool execution and function call parsing
