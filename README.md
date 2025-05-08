@@ -7,7 +7,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system using the 
 
 ## Folder Structure
 
-<pre><code>RAG-BACKEND/ ├── agent.py # Main agent implementation ├── action.py # Tool execution and function call parsing ├── models.py # Pydantic models for data validation ├── decision.py # Decision making and planning logic ├── perception.py # Intent and entity extraction ├── memory.py # Memory management and retrieval ├── mcp_server.py # MCP server implementation ├── rag_backend.py # Main RAG backend implementation ├── faiss_index/ # Vector storage directory │ ├── index.bin # FAISS index file │ ├── metadata.json # Document metadata │ └── doc_index_cache.json # Document processing cache ├── pyproject.toml # Project dependencies └── README.md # This file </code></pre>
+'''<pre><code>RAG-BACKEND/ ├── agent.py # Main agent implementation ├── action.py # Tool execution and function call parsing ├── models.py # Pydantic models for data validation ├── decision.py # Decision making and planning logic ├── perception.py # Intent and entity extraction ├── memory.py # Memory management and retrieval ├── mcp_server.py # MCP server implementation ├── rag_backend.py # Main RAG backend implementation ├── faiss_index/ # Vector storage directory │ ├── index.bin # FAISS index file │ ├── metadata.json # Document metadata │ └── doc_index_cache.json # Document processing cache ├── pyproject.toml # Project dependencies └── README.md # This file </code></pre>'''
 
 Chrome extension:
 
