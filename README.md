@@ -12,8 +12,8 @@ The project involves developing a Chrome extension(RAG) that logs websites visit
 
 ## Folder Structure
 
-'''<pre><code>RAG-BACKEND/ ├── agent.py # Main agent implementation 
-
+<pre><code>RAG-BACKEND/
+├── agent.py # Main agent implementation 
 ├── action.py # Tool execution and function call parsing
 ├── models.py # Pydantic models for data validation
 ├── decision.py # Decision making and planning logic 
@@ -26,7 +26,7 @@ The project involves developing a Chrome extension(RAG) that logs websites visit
 ├── metadata.json # Document metadata │
 └── doc_index_cache.json # Document processing cache
 ├── pyproject.toml # Project dependencies 
-└── README.md # This file </code></pre>'''
+└── README.md # This file </code></pre>
 
 Chrome extension:
 
