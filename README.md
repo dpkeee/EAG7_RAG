@@ -1,4 +1,4 @@
-The project involves developing a Chrome extension(RAG) that logs visited websites, converts the content into Nomic embeddings, and stores them in a FAISS index. The extension also supports search functionality, allowing users to query and retrieve relevant information directly from the FAISS-stored data and also giving the website link from where the information was retrieved.
+The project involves developing a Chrome extension(RAG) that logs websites visited, converts the content into Nomic embeddings, and stores them in a FAISS index. The extension also supports search functionality, allowing users to query and retrieve relevant information directly from the FAISS-stored data and also giving the website link from where the information was retrieved.
 
 # RAG-BACKEND: Model Context Protocol (MCP) Based RAG System
 
